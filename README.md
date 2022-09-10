@@ -17,6 +17,6 @@ There are several ways to measure biodiversity, as shown in the visual aid below
 
 Citations
 
-https://www.amnh.org/research/center-for-biodiversity-conservation/what-is-biodiversity
-https://www.nps.gov/aboutus/visitation-numbers.htm
-https://www.britannica.com/science/biodiversity
+1. https://www.amnh.org/research/center-for-biodiversity-conservation/what-is-biodiversity
+2. https://www.nps.gov/aboutus/visitation-numbers.htm
+3. https://www.britannica.com/science/biodiversity
